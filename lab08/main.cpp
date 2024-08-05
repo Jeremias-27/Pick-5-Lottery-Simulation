@@ -19,7 +19,7 @@ void inptNumbrs(list<int>&, int&);
 void compare(const list<int>&, list<int>&, int&);
 void decide(const list<int>&, const list<int>&, int);
 
-
+// representation of how the game works
 int main()
 {
     //lists
